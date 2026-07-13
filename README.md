@@ -56,8 +56,6 @@ El análisis siguió un pipeline secuencial de 7 etapas, desarrollado íntegrame
 │   └── Tarea1_EDA_ML_SupportTickets_v2.ipynb   # Notebook completo (EDA + visualización + ML)
 ├── data/
 │   └── Support_tickets.csv                      # Dataset público utilizado
-├── outputs/
-│   └── figuras/                                  # Gráficos exportados usados en el informe
 └── README.md
 ```
 
