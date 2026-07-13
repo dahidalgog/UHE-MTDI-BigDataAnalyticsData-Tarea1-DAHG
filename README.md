@@ -62,8 +62,8 @@ El análisis siguió un pipeline secuencial de 7 etapas, desarrollado íntegrame
 ## Cómo ejecutar el notebook
 
 1. Clonar o descargar este repositorio.
-2. Abrir `notebooks/Tarea1_EDA_ML_SupportTickets_v2.ipynb` en [Google Colab](https://colab.research.google.com/) o Jupyter.
-3. Si el archivo `Support_tickets.csv` no se carga automáticamente, subirlo manualmente desde `/data` usando el panel lateral de archivos de Colab, o montar Google Drive.
+2. Abrir `notebooks/Tarea1_EDA_ML_SupportTickets_v2.ipynb` en [Google Colab](https://colab.research.google.com/).
+3. Si el archivo `Support_tickets.csv` no se carga automáticamente, subirlo manualmente desde `/data` usando el panel lateral de archivos de Colab.
 4. Ejecutar las celdas en orden secuencial (Runtime → Run all / Entorno de ejecución → Ejecutar todas).
 5. Las librerías requeridas (`pandas`, `numpy`, `plotly`, `matplotlib`, `seaborn`, `scikit-learn`) ya están disponibles por defecto en Google Colab.
 
